@@ -19,7 +19,11 @@ Tracked KPIs such as revenue, profit margins, and order volumes.
 Drill-down capabilities for specific regions, time periods, or product categories.
 Custom slicers for enhanced interactivity.
 
-Tools Used
+# Tools Used
+Data modeling and transformation.
+DAX calculations for advanced metrics.
+Intuitive, visually appealing dashboards.
+
 # Power BI:
 Data modeling and transformation.
 DAX calculations for advanced metrics.
