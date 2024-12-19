@@ -2,11 +2,11 @@
 Project Overview
 This project is a comprehensive analysis of coffee sales data using Power BI, a leading business intelligence tool. It aims to uncover trends, identify growth opportunities, and provide actionable insights for better decision-making in the coffee industry.
 
-Key Features
+# Key Features
 Interactive Dashboards
 
 
-Visualizations for sales trends over time.
+# Visualizations for sales trends over time.
 Geographic analysis of sales performance.
 Category-wise breakdown of coffee products.
 Insights into customer behavior and purchasing patterns.
@@ -20,18 +20,18 @@ Dynamic Filters:
 Drill-down capabilities for specific regions, time periods, or product categories.
 Custom slicers for enhanced interactivity.
 Tools Used
-Power BI:
+# Power BI:
 Data modeling and transformation.
 DAX calculations for advanced metrics.
 Intuitive, visually appealing dashboards.
 How to Use
 Prerequisites:
 
-Ensure you have Power BI Desktop installed on your system.
+# Ensure you have Power BI Desktop installed on your system.
 Download the .pbix file from this repository.
 Steps:
 
-Open the coffee.pbix file in Power BI Desktop.
+# Open the coffee.pbix file in Power BI Desktop.
 Interact with the dashboards and explore the insights.
 Acknowledgments
 Special thanks to the Power BI community for providing guidance and resources throughout the project.
